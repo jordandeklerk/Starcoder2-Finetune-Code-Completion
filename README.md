@@ -1,4 +1,4 @@
-# Overview
+# Highlights
 
 <img src="./images/starcoder.png" width="750"></img>
 
